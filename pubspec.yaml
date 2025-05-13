@@ -1,10 +1,11 @@
 name: syn_platform_utils
 description: The package for working with directories on different platforms.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/synaptik-develop/syn_platform_utils
 
 environment:
   sdk: '>=3.7.0 <4.0.0'
+  flutter: ">=3.29.0 <4.0.0"
 
 dependencies:
   path: ^1.9.1
