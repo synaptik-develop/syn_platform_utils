@@ -1,0 +1,16 @@
+name: syn_platform_utils
+description: The package for working with directories on different platforms.
+version: 1.0.0
+repository: https://github.com/synaptik-develop/syn_platform_utils
+
+environment:
+  sdk: '>=3.7.0 <4.0.0'
+
+dependencies:
+  path: ^1.9.1
+  path_provider: ^2.1.5
+
+dev_dependencies:
+  dart_code_linter: ^2.0.0
+  dartdoc: ^8.3.2
+  lint: ^2.8.0
