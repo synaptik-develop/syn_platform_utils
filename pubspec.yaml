@@ -5,7 +5,7 @@ repository: https://github.com/synaptik-develop/syn_platform_utils
 
 environment:
   sdk: '>=3.7.0 <4.0.0'
-  flutter: ">=3.29.0 <4.0.0"
+  flutter: ">=3.29.0"
 
 dependencies:
   path: ^1.9.1
